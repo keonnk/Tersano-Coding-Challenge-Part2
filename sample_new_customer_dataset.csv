@@ -1,0 +1,6 @@
+CustomerID,Age,Gender,Tenure,Usage Frequency,Support Calls,Payment Delay,Subscription Type,Contract Length,Total Spend,Last Interaction
+60,64,Female,39,25,2,9,Standard,Quarterly,933,9
+61,30,Male,57,21,8,24,Standard,Annual,576,6
+62,18,Female,57,16,10,2,Basic,Quarterly,657,26
+63,24,Male,13,25,9,27,Premium,Quarterly,843,29
+63,24,Male,13,25,9,27,Premium,Monthly,843,29

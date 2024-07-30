@@ -13,3 +13,5 @@ pip install -r requirements.txt
 
 If `UnathorizationError` is being thrown, try running
 Set-ExecutionPolicy Unrestricted -Scope Process
+
+Click "Run All" in Jupyter notebook
